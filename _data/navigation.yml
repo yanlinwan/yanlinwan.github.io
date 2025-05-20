@@ -11,7 +11,7 @@ main:
   - title: "Research"
     url: /research/
     
-- title: "CV"
+  - title: "CV"
     url: /files/CV_Yanlin_Wan.pdf
     
   # - title: "CV"
