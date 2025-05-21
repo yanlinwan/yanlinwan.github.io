@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working papers 
+## Working Papers 
 
 **Nudge for Sanitation: Experimental Evidence from China**
 (with Xu Zhang)
