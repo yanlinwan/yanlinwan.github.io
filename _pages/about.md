@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Yanlin Wan, a fourth-year PhD candidate at the Academy of Interdisciplinary Studies at The Hong Kong University of Science and Technology (HKUST) and at the Society Hub, HKUST (Guangzhou).
+Hi! I am Yanlin Wan, a fourth-year PhD candidate at the Academy of Interdisciplianry Studies, The Hong Kong University of Science and Technology (HKUST).
 
-My research focuses on development economics and experimental economics. I employ economic experiments and causal inference methods to examine macro-level policy interventions and their micro-level impacts on individuals and society. Additionally, I explore effective strategies for engaging the target audience of public programs within the context of developing countries, particularly China and India.
+My research focuses on development economics and experimental economics, where I employ experiments and causal inference methods to examine the effects of macro-level policy interventions on individuals and society. Additionally, I explore effective strategies for engaging the target audience of public programs within the context of developing countries, particularly in China and India. 
 
 My research trajectory includes the following three areas:
 
@@ -17,6 +17,6 @@ My research trajectory includes the following three areas:
 2. Behavioral determinants of citizen engagement in government initiatives
 3. Experimental designs in randomized controlled trials (RCTs) to promote student and workforce welfare
 
-I am advised by Prof. Xu Zhang (xuzhang@hkust-gz.edu.cn) from HKUST (Guangzhou), Prof. Masaru Yarime (yarime@ust.hk) from HKUST, and Prof. Zihan Hu (zihanhu@smu.edu.sg) from Singapore Management University.
+I am advised by [Prof. Xu Zhang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=3) (xuzhang@hkust-gz.edu.cn) from HKUST (Guangzhou), [Prof. Masaru Yarime](https://yarime.net) (yarime@ust.hk) from HKUST, and [Prof. Zihan Hu](https://www.zihanhuecon.com/) (zihanhu@smu.edu.sg) from Singapore Management University.
 
-Email: yanlin.wan@connect.ust.hk
+Contact: yanlin.wan@connect.ust.hk
