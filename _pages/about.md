@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I am Yanlin Wan, a fourth-year PhD candidate at the Academy of Interdisciplianry Studies, The Hong Kong University of Science and Technology (HKUST).
 
-My research focuses on development economics and experimental economics, where I employ experiments and causal inference methods to examine the effects of macro-level policy interventions on individuals and society. Additionally, I explore effective strategies for engaging the target audience of public programs within the context of developing countries, particularly in China and India. 
+My research focuses on development economics and experimental economics. I use experiments and causal inference methods to investigate the effects of policy interventions on individuals and communities. A key focus of my work is to identify effective strategies for engaging target audiences in public programs, particularly within developing countries in Asia.
 
 My research trajectory includes the following three areas:
 
