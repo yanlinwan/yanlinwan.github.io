@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers 
 
-[**Nudge for Sanitation: Experimental Evidence from China**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5369236) _(Submitted)_
+**[Nudge for Sanitation: Experimental Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5369236)** _(Submitted)_
 
 (with Xu Zhang)
 
