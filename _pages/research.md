@@ -23,7 +23,7 @@ This study investigates the impact of enhanced internet infrastructure on intra-
 
 
 ## Selected Works in Progress
-**Bridging the Gap: How Enhanced Access to Mental Healthcare Translates into Improved Individual Mental Well-being** (with Yuzhi Hao, Xu Zhang) **(Job Market Paper)**
+**Bridging the Gap: Improving Mental Health through Supply-side Policies** (with Yuzhi Hao, Xu Zhang) **(Job Market Paper)**
 
 **AI Policy in Education: A Randomized Controlled Trial** (with Jinghao Jia, Xu Zhang)
 
