@@ -23,12 +23,7 @@ This study investigates the impact of enhanced internet infrastructure on intra-
 
 
 ## Selected Works in Progress
-**Bridging the Gap: Improving Mental Health through Supply-side Policies** (with Yuzhi Hao, Xu Zhang) **(Job Market Paper)**
-
-**AI Policy in Education: A Randomized Controlled Trial** (with Jinghao Jia, Xu Zhang)
-
-**Exploring Risk Tolerance, Soft Skills, and Working Conditions across Informal Labor Markets in India**
-(with Raja Rajendra Timilsina, Dil B Rahut, Tetsushi Sonobe, Kamal Chaudhary, Navneet Manchanda)
+**Bridging the Gap: Improve Mental Health through Supply-side Policies (Job Market Paper)** (with Yuzhi Hao, Xu Zhang; slides available upon request) 
 
 **Demand for Social Security Program among Informal Workers in Urban India** (with Raja Rajendra Timilsina, Dil B Rahut, Tetsushi Sonobe)
 
