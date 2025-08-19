@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I am Yanlin Wan, a fourth-year PhD candidate at the Academy of Interdisciplianry Studies, The Hong Kong University of Science and Technology (HKUST).
 
-My research focuses on development economics and behavioral economics, and my research trajectory includes the following three areas:
+My research centers around development economics and behavioral economics, with a particular foucs on the following two areas:
 
 1. The Socioeconomic Impacts of Technological Development 
 2. Behavioral Determinants in Policy Engagement
