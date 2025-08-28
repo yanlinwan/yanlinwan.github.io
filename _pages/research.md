@@ -5,6 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
+## Job Market Paper
+
+**Bridging the Gap: Improve Mental Health through Supply-side Policies (Job Market Paper)** 
+
+(with Yuzhi Hao, Xu Zhang; slides available upon request) 
+
+We evaluate a nationwide policy in China that aimed to improve population mental well-being by expanding the supply of mental healthcare resources and reducing the public stigma associated with mental illness. Using a difference-in-differences approach, we find that the policy significantly improved mental health on average, with benefits concentrated among individuals with better mental health conditions. Through a discrete choice experiment, we show that individuals with poorer mental health are more sensitive to price changes but less responsive to increased access, likely due to proximity-induced privacy concerns. We also find that the policy led to an increase in the number of general mental counseling organizations. Together, these findings suggest that the policy's success was driven by enhanced access to mental counseling for the broader population. We conclude that effective mental health interventions require a two-pronged strategy: a broad approach to improve general access, coupled with targeted efforts to remove financial barriers and provide privacy-sensitive, professional support for those with severe conditions. 
+
 ## Working Papers 
 
 **[Nudge for Sanitation: Experimental Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5369236)** _(Submitted)_
@@ -23,7 +31,6 @@ This study investigates the impact of enhanced internet infrastructure on intra-
 
 
 ## Selected Works in Progress
-**Bridging the Gap: Improve Mental Health through Supply-side Policies (Job Market Paper)** (with Yuzhi Hao, Xu Zhang; slides available upon request) 
 
 **Demand for Social Security Program among Informal Workers in Urban India** (with Raja Rajendra Timilsina, Dil B Rahut, Tetsushi Sonobe)
-
+**AI Policy in Education: A Randomized Control Experiment** (with Jinghao Jia, Xu Zhang)
