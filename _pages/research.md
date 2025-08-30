@@ -29,7 +29,7 @@ Information provision has been suggested as a cost-effective approach to engagin
 **Abstract**
 This study investigates the impact of enhanced internet infrastructure on intra-city income inequality in China. Employing a staggered difference-in-differences methodology, our analysis reveals that the Broadband China Strategic Program from 2014 to 2016 resulted in a notable reduction in the income Gini coefficients of the demonstration cities, with substantial income gains among low- and middle-income households. We argue that the improved internet infrastructure mitigated income inequality mainly by creating new employment opportunities in the service sector for low-skilled workers. Our findings underscore the pivotal role of technology in fostering inclusive economic growth and provide valuable insights for policymakers seeking to harness investments in internet infrastructure and improve social equality in developing countries.
 
-**Risk tolerance, soft skills, and sectoral sorting: Lab-in-the-field experiments in urban India's dual informal labor market** _(Submitted)_
+**Risk Tolerance, Soft Skills, and Sectoral Sorting: Lab-in-the-field Experiments in Urban India's Dual Informal Labor Market** _(Submitted)_
 
 (with Raja Rajendra Timilsina, Dil B Rahut, Tetsushi Sonobe)
 
