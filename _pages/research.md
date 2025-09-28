@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-**Bridging the Gap: Improve Mental Health through Supply-side Policy (Job Market Paper)** 
+**Bridging the Gap: Improve Mental Health through Supply-side Policy** 
 
 (with Yuzhi Hao, Xu Zhang; slides available upon request) 
 
