@@ -7,11 +7,11 @@ author_profile: true
 
 ## Job Market Paper
 
-**Bridging the Gap: Improve Mental Health through Supply-side Policy** 
+**Bridging the Treatment Gap: Evidence from China** 
 
 (with Yuzhi Hao, Xu Zhang; slides available upon request) 
 
-We evaluate a nationwide policy in China that aimed to improve population mental well-being by expanding the supply of mental healthcare resources and reducing the public stigma associated with mental illness. Using a difference-in-differences approach, we find that the policy significantly improved mental health on average, with benefits concentrated among individuals with better mental health conditions. Through a discrete choice experiment, we show that individuals with poorer mental health are more sensitive to price changes but less responsive to increased access, likely due to proximity-induced privacy concerns. We also find that the policy led to an increase in the number of general mental counseling organizations. Together, these findings suggest that the policy's success was driven by enhanced access to mental counseling for the broader population. We conclude that effective mental health interventions require a two-pronged strategy: a broad approach to improve general access, coupled with targeted efforts to remove financial barriers and provide privacy-sensitive, professional support for those with severe conditions. 
+We evaluate a large-scale, nationwide policy in China that aimed to improve population mental well-being by simultaneously expanding the supply of mental healthcare resources and reducing public stigma. Using a difference-in-differences design, we find that the policy significantly improved mental health outcomes on average; however, the benefits were concentrated among individuals with better mental health. We then provide descriptive evidence of an increase in mental healthcare adoption following this policy. To investigate the channels driving this enhanced adoption, we conducted a discrete choice experiment (DCE) focusing on the costs of care: monetary costs (price), time costs (commuting time), and psychological costs (stigma). The DCE reveals crucial heterogeneity: individuals with better mental health are more responsive to reductions in time costs but less sensitive to monetary costs. These findings suggest the policy's average success was driven by the reduced time costs for these with better mental health conditions. We conclude that effective mental health interventions require a broad approach to improve general access, coupled with targeted efforts to remove financial barriers and provide privacy-sensitive support for those with severe conditions.
 
 ## Working Papers 
 
