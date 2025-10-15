@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-**Bridging the Treatment Gap: Evidence from China** 
+**Bridging the Treatment Gap in Mental Healthcare: Evidence from China** 
 
 (with Yuzhi Hao, Xu Zhang; slides available upon request) 
 
