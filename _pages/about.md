@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Yanlin WAN (万彦麟), a PhD candidate at the Academy of Interdisciplianry Studies, The Hong Kong University of Science and Technology (HKUST). 
+Hi! I am Yanlin WAN (万彦麟), a PhD candidate at the Division of Emerging Interdisciplinary Areas, The Hong Kong University of Science and Technology (HKUST). 
 
 My research interests are development economics and behavioral economics. In particular, my research focuses on how behavioral insights could be leveraged to improve the design and uptake of policy interventions, and how technological changes affect individual behavioral outcomes and social inequality. 
 
