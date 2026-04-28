@@ -5,35 +5,30 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers 
+## Job Market Paper
 
-**AI Policy in Education: A Randomized Control Experiment** 
+**GenAI Governance in School: How Guidelines and Monitoring Shape Student Performance** 
 
 (with Jinghao Jia, Xu Zhang; slides available upon request)
 
 **Abstract**
-We investigate the optimal design of institutional rules for integrating Generative Artificial Intelligence (AI) into middle school education. Using a Randomized Controlled Trial (RCT) across two urban middle schools in China, we causally estimate the effects of two policy components: AI Guidance (providing instructional information) and AI Conditional Use (a policy-imposed restriction on the AI rate in writing). While we find insignificant average treatment effects on academic performance, the interventions yield significant heterogeneous effects by gender. Specifically, the Conditional Use restriction generated a positive academic spillover: female students experienced substantial improvement in math scores, with the largest benefits observed in the combined Guidance and Conditional Use group. We propose that this differential impact is driven by a compliance mechanism. Descriptive evidence shows that girls, who had higher baseline AI engagement, demonstrated greater adherence to the guidelines during the experiment, successfully steering their engagement toward more productive AI tool use. This suggests that the combination of guidance and use restriction is a powerful, gender-specific intervention that leverages existing student self-regulation to realize positive returns from AI. 
+We investigate the governance of Generative AI in education. Using a randomized controlled trial in two urban middle schools in China, we evaluate two interventions: instructional AI Guidelines and Monitoring on the AI rate in writing (defined as a 30% cap on AI-generated content). We find that neither component is sufficient in isolation: guidelines without monitoring induce cognitive offloading, indicated by significantly higher restriction violation rates, particularly among male students, while restrictions alone fail to curb non-compliance. Instead, we document a strong synergistic impact between the two. The combination of guidelines and monitoring ensures high compliance and drives significant gains in writing performance. We conclude that a preferable bundle, coupling instructional support with external monitoring, effectively curbs cognitive offloading among the discipline-constrained while fostering adaptation among compliance-oriented students.
 
-**Closing the Treatment Gap in Mental Healthcare: Evidence from China** 
+## Working Papers
 
-(with Yuzhi Hao, Xu Zhang; slides available upon request) 
+**From Both Sides, But Not for All: Heterogeneous Effects of a Nationwide Mental Health Policy in China** 
+
+(with Yuzhi Hao, Xu Zhang) 
 
 **Abstract**
-We evaluate a large-scale, nationwide policy in China that aimed to improve population mental well-being by simultaneously expanding the supply of mental healthcare resources and reducing public stigma. Using a difference-in-differences design, we find that the policy significantly improved mental health outcomes on average; however, the benefits were concentrated among individuals with better mental health. We then provide descriptive evidence of an increase in mental healthcare adoption following this policy. To investigate the channels driving this enhanced adoption, we conducted a discrete choice experiment (DCE) focusing on the costs of care: monetary costs (price), time costs (commuting time), and psychological costs (stigma). The DCE reveals crucial heterogeneity: individuals with better mental health are more responsive to reductions in time costs but less sensitive to monetary costs. These findings suggest the policy's average success was driven by the reduced time costs for these with better mental health conditions. We conclude that effective mental health interventions require a broad approach to improve general access, coupled with targeted efforts to remove financial barriers and provide privacy-sensitive support for those with severe conditions.
+We evaluate a nationwide policy in China combining mental healthcare supply expansion with stigma reduction. Using a difference-in-differences design, we find significant average improvements in mental health. However, benefits are concentrated among low- and medium-risk population, with no detectable gains for the high-risk. We attribute this heterogeneity to an accessibility-privacy trade-off: community-based care expansion reduces travel time but increases social visibility that disproportionately deter high-risk individuals. A discrete choice experiment confirms that high-risk individuals respond weakly to accessibility improvements due to privacy concerns. We conclude that accessibility-focused interventions can inadvertently exclude the vulnerable, necessitating privacy-protected delivery channels for high-risk groups.
 
-**Nudge for Sanitation: Experimental Evidence from China** (Under review)
+**Benefit Salience and Cognitive Barriers to Programme Take-up: A Field Experiment** (Under review)
 
 (with Xu Zhang)
 
 **Abstract**
-Information provision has been suggested as a cost-effective approach to engaging the target poor in anti-poverty campaigns. However, empirical evidence shows that providing information about available public services or entitled rights alone is often insufficient to motivate behavior change. In this study, we conducted a randomized controlled trial experiment to compare the behavioral impacts of different informational nudges on villagers’ participation decisions in China’s Rural Toilet Revolution (RTR), which aims to boost rural development through improved living conditions. We designed six RTR advocacy videos as informational nudges based on local residents’ information demand, highlighting the benefits of RTR participation, the harms of poor sanitation, and techniques for toilet upgrades, either with or without a former RTR participant calling for engagement. Our findings suggest that any relevant policy information can induce a higher self-reported willingness to participate in RTR, while highlighting the benefits or harms is more effective in motivating long-term enrollment decisions. The results reveal the importance of engagement benefits for the target audience and highlight information barrier removal as a useful nudge to promote anti-poverty campaigns like RTR.
-
-**Rewiring Opportunity: How Improved Internet Infrastructure Reduces Intra-City Income Inequality in China** (Under review)
-
-(with Xu Zhang, Yuzhi Hao, Aoqing Lyu, Masaru Yarime)
-
-**Abstract**
-This study investigates the impact of enhanced internet infrastructure on intra-city income inequality in China. Employing a staggered difference-in-differences methodology, our analysis reveals that the Broadband China Strategic Program from 2014 to 2016 resulted in a notable reduction in the income Gini coefficients of the demonstration cities, with substantial income gains among low- and middle-income households. We argue that the improved internet infrastructure mitigated income inequality mainly by creating new employment opportunities in the service sector for low-skilled workers. Our findings underscore the pivotal role of technology in fostering inclusive economic growth and provide valuable insights for policymakers seeking to harness investments in internet infrastructure and improve social equality in developing countries.
+Low take-up of welfare-improving programmes is often attributed to liquidity constraints, yet participation may lag even when monetary costs are negligible. We isolate the role of cognitive barriers and trust frictions in the context of China’s Rural Toilet Revolution, a unique setting where full government funding effectively rules out the inability to pay channel. To disentangle the content of the signal from its source, we implemented a $3 \times 2$ factorial RCT that cross-randomises three information frames (benefits, harms, or technical details) against the presence of a peer messenger. We document a sharp divergence between stated intentions and revealed preferences. While all interventions uniformly increased short-run self-reported willingness to participate, actual administrative enrolment responded significantly only to benefit-salience messages. We detect no effect of peer messengers. Heterogeneity analyses show that enrolment effects are concentrated among villagers with higher baseline programme literacy, suggesting a complementarity between information and prior knowledge. These results imply that even when financial constraints are removed, the inability to quantify invisible returns remains a binding constraint, and effective policy must resolve this valuation gap to trigger adoption.
 
 **Risk Tolerance, Soft Skills, and Sectoral Sorting: Lab-in-the-field Experiments in Urban India's Dual Informal Labor Market** (Under review)
 
@@ -45,4 +40,4 @@ The persistence of informal employment in developing economies raises central ec
 ## Selected Works in Progress
 
 **Demand for Social Security Program among Informal Workers in Urban India** (with Raja Rajendra Timilsina, Dil B Rahut, Ngawang Dendup, Tetsushi Sonobe)
-
+**Rewiring Opportunity: How Improved Internet Infrastructure Reduces Intra-City Income Inequality in China** (with Xu Zhang, Yuzhi Hao, Aoqing Lyu, Masaru Yarime)
