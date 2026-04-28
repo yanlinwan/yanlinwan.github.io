@@ -16,14 +16,14 @@ We investigate the governance of Generative AI in education. Using a randomized 
 
 ## Working Papers
 
-**From Both Sides, But Not for All: Heterogeneous Effects of a Nationwide Mental Health Policy in China** [PDF](files/from_both_sides.pdf) 
+**From Both Sides, But Not for All: Heterogeneous Effects of a Nationwide Mental Health Policy in China** [PDF](https://github.com/yanlinwan/yanlinwan.github.io/blob/6f315a594bb90424c15b0c73b5680d1b87e7291c/files/from_both_sides.pdf) 
 
 (with Yuzhi Hao, Xu Zhang) 
 
 **Abstract**
 We evaluate a nationwide policy in China combining mental healthcare supply expansion with stigma reduction. Using a difference-in-differences design, we find significant average improvements in mental health. However, benefits are concentrated among low- and medium-risk population, with no detectable gains for the high-risk. We attribute this heterogeneity to an accessibility-privacy trade-off: community-based care expansion reduces travel time but increases social visibility that disproportionately deter high-risk individuals. A discrete choice experiment confirms that high-risk individuals respond weakly to accessibility improvements due to privacy concerns. We conclude that accessibility-focused interventions can inadvertently exclude the vulnerable, necessitating privacy-protected delivery channels for high-risk groups.
 
-**Benefit Salience and Cognitive Barriers to Programme Take-up: A Field Experiment** [PDF](files/benefit_salience.pdf)
+**Benefit Salience and Cognitive Barriers to Programme Take-up: A Field Experiment** [PDF](https://github.com/yanlinwan/yanlinwan.github.io/blob/cebc88cd909cc3e6fd7f4c8e787508a129990754/files/benefit_salience.pdf)
 
 (with Xu Zhang)
 
