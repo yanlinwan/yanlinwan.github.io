@@ -38,4 +38,5 @@ The persistence of informal employment in developing economies raises central ec
 ## Selected Works in Progress
 
 **Demand for Social Security Program among Informal Workers in Urban India** (with Raja Rajendra Timilsina, Dil B Rahut, Ngawang Dendup, Tetsushi Sonobe)
+
 **Rewiring Opportunity: How Improved Internet Infrastructure Reduces Intra-City Income Inequality in China** (with Xu Zhang, Yuzhi Hao, Aoqing Lyu, Masaru Yarime)
