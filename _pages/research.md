@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-**GenAI Governance in School: How Guidelines and Monitoring Shape Student Performance** 
+**GenAI Governance in School: How Guidelines and Enforecement Shape Student Performance** 
 
 (with Jinghao Jia, Xu Zhang; slides available upon request)
 
