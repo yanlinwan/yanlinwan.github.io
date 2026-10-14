@@ -27,9 +27,7 @@ Programmes can remain undersubscribed even when households pay nothing to join. 
 
 ## Selected Work in Progress 
 
-**Associative Memory, Beliefs and Investments: A Replication and Extension** (with Peiran Jiao, Xinxin Zhu)
-
-Abstract and proposal accepted for European Economic Review
+**Associative Memory, Beliefs and Investments: A Replication and Extension** (with Peiran Jiao, Xinxin Zhu) Abstract and proposal accepted for European Economic Review
 
 **Religious Beliefs and Vaccination** (with Pakhung Lam, Zihan Hu) 
 
