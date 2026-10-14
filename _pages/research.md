@@ -22,6 +22,17 @@ Community-based mental health expansion in developing countries assumes that phy
 
 **Benefit Salience and Cognitive Barriers to Programme Take-up: A Field Experiment** (with Xu Zhang) Major Revision
 
-## Work in Progress 
+**Abstract**
+Programmes can remain undersubscribed even when households pay nothing to join. We examine whether information interventions that make programme returns easier to recognise can help narrow the participation gap in China’s Rural Toilet Revolution. We conduct a 3-by-2 cluster-randomised field experiment using videos that emphasise benefits of participation, harms of continued poor sanitation, or technical aspects of facility construction and use. The design also varies the presence of a near-peer messenger and includes an active-placebo video. Within each arm, stated willingness rises immediately after video exposure, but treatment arms do not differ significantly from the placebo. Ten months later, benefit-focused communication increases verified enrolment by 8.8 percentage points relative to the placebo and appears more effective among villagers who initially understood the programme better. These findings suggest that benefit-focused communication can encourage enrolment when hardware and installation are fully subsidised.
+
+## Selected Work in Progress 
+
+**Associative Memory, Beliefs and Investments: A Replication and Extension** (with Peiran Jiao, Xinxin Zhu)
+
+Abstract and proposal accepted for European Economic Review
+
+**Religious Beliefs and Vaccination** (with Pakhung Lam, Zihan Hu) 
+
+
 
 
