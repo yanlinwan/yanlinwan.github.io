@@ -10,7 +10,7 @@ Timilsina, R., Rahut D., Wan, Y., & Sonobe, T. (2026). Risk tolerance, soft skil
 
 
 ## Working Papers
-**GenAI Governance in School: How Guidelines and Enforecement Shape Student Performance** (with Jinghao Jia, Xu Zhang) Under Review
+**GenAI Governance in School: How Guidelines and Enforcement Shape Student Performance** (with Jinghao Jia, Xu Zhang) Under Review
 
 **Closer is not equal:  The Proximity Penalty in Community-based Mental health Expansion in China** (with Yuzhi Hao, Xu Zhang) Major Revision at BMC Public Health
 
