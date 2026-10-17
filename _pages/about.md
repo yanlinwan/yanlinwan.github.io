@@ -11,6 +11,6 @@ Hi! I am Yanlin WAN (万彦麟). I received my PhD from the Hong Kong University
 
 My research interests are development economics and behavioral economics. 
 
-I was fortunate to be advised by [Prof. Xu Zhang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=3) (xuzhang@hkust-gz.edu.cn) from HKUST (Guangzhou), [Prof. Masaru Yarime](https://yarime.net) (yarime@ust.hk), and [Prof. Zihan Hu](https://www.zihanhuecon.com/) (zihanhu@smu.edu.sg) during my Phd study. 
+I was fortunate to be advised by [Prof. Xu Zhang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=3) (xuzhang@hkust-gz.edu.cn), [Prof. Masaru Yarime](https://yarime.net) (yarime@ust.hk), and [Prof. Zihan Hu](https://www.zihanhuecon.com/) (zihanhu@smu.edu.sg) during my Phd study. 
 
 Contact: yanlin.wan@connect.ust.hk
