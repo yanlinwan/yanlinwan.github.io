@@ -12,11 +12,11 @@ Timilsina, R., Rahut D., Wan, Y., & Sonobe, T. (2026). Risk tolerance, soft skil
 ## Working Papers
 **GenAI Governance in School: How Guidelines and Enforcement Shape Student Performance** (with Jinghao Jia, Xu Zhang) Under Review
 
-**Closer is not equal:  The Proximity Penalty in Community-based Mental health Expansion in China** (with Yuzhi Hao, Xu Zhang) Major Revision at BMC Public Health
+**Closer is not equal:  The Proximity Penalty in Community-based Mental health Expansion in China** (with Yuzhi Hao, Xu Zhang) Major Revision
 
-**Benefit Salience and Cognitive Barriers to Programme Take-up: A Field Experiment** (with Xu Zhang) Major Revision at Behavioural Public Policy
+**Benefit Salience and Cognitive Barriers to Programme Take-up: A Field Experiment** (with Xu Zhang) Major Revision
 
-**Associative Memory, Beliefs and Investments: A Replication and Extension** (with Peiran Jiao, Xinxin Zhu) R&R at European Economic Review
+**Associative Memory, Beliefs and Investments: A Replication and Extension** (with Peiran Jiao, Xinxin Zhu) Revised and Resubmit 
 
 ## Selected Work in Progress 
 
