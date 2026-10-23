@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Yanlin WAN (万彦麟). I received my PhD from the Hong Kong University of Science and Technology (HKUST) in July 2026.
+Hi! I am Yanlin WAN (万彦麟). I am a Research Associate at Asian Development Bank Institute(ADBI). I received my PhD from the Hong Kong University of Science and Technology (HKUST) in July 2026.
 
 My research interests are development economics and behavioral economics. 
 
