@@ -16,7 +16,7 @@ Timilsina, R., Rahut D., Wan, Y., & Sonobe, T. (2026). Risk tolerance, soft skil
 
 **Benefit Salience and Cognitive Barriers to Programme Take-up: A Field Experiment** (with Xu Zhang) Major Revision at Behavioural Public Policy
 
-**Associative Memory, Beliefs and Investments: A Replication and Extension** (with Peiran Jiao, Xinxin Zhu) Revised and Resubmit at European Economic Review
+**Associative Memory, Beliefs and Investments: A Replication and Extension** (with Peiran Jiao, Xinxin Zhu) Revise and Resubmit at European Economic Review
 
 ## Selected Work in Progress 
 
