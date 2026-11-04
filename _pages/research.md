@@ -20,7 +20,7 @@ Timilsina, R., Rahut D., Wan, Y., & Sonobe, T. (2026). Risk tolerance, soft skil
 
 ## Selected Work in Progress 
 
-**Religious Beliefs and Vaccination** (with Pakhung Lam, Zihan Hu) 
+**Religious Beliefs and Child Vaccination** (with Pakhung Lam, Zihan Hu) 
 
 
 
